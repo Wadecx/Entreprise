@@ -5,7 +5,7 @@ const data = [
   {
     Entreprise: "PCKraft",
     Expertises: "Usine de fabrications de composants d'ordinateur",
-    Password: "WPA-2 > 12ch + hashage",
+    Password: "Sécurité WPA-3 1 Pass / W",
     Securite:
       "Filtrage MAC (NAC), limitation de connexions, tests de phishing annuels, Cloudflare Anti-DDoS, Fail2Ban, détection de scans (NMAP), accès serveur via badge sécurisé (OSDP + AES-128, MIFARE DESFire EV2, HTTPS/VPN).",
     Logiciels: "Cloudflare, Wazuh, Fail2ban",
